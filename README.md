@@ -57,11 +57,9 @@ We are currently seeking skilled contributors in the following areas:
 
 ## 💼 Compensation
 
-This project is currently in an early-stage development phase. At this time, there is no financial compensation available.
+## 💼 Compensation Philosophy
 
-Participation is currently voluntary and focused on collaboration, development experience, and contributing to the buildout of the platform.
-
-Any future compensation structure will be determined at a later stage based on project success, deployment, funding outcomes, and contributor role. If applicable, compensation will be discussed and formally agreed upon prior to any transition into paid arrangements.
+This is an early-stage project with no guaranteed revenue or financial outcome. At this time, there is no assured compensation. The project is being developed with the understanding that it may or may not become commercially successful. If the project becomes financially viable in the future, we intend to establish fair and reasonable compensation structures for active contributors at that time. This may include paid roles or other forms of compensation, based on project success, funding, and contribution level. No financial commitments are made at this stage, and any future compensation will be formally agreed upon in writing before transitioning into paid work.
 
 ---
 
