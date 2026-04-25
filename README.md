@@ -57,8 +57,6 @@ We are currently seeking skilled contributors in the following areas:
 
 ## 💼 Compensation
 
-## 💼 Compensation Philosophy
-
 This is an early-stage project with no guaranteed revenue or financial outcome. At this time, there is no assured compensation. The project is being developed with the understanding that it may or may not become commercially successful. If the project becomes financially viable in the future, we intend to establish fair and reasonable compensation structures for active contributors at that time. This may include paid roles or other forms of compensation, based on project success, funding, and contribution level. No financial commitments are made at this stage, and any future compensation will be formally agreed upon in writing before transitioning into paid work.
 
 ---
